@@ -4,7 +4,7 @@ Introducing the concept of a social media intelligent agent - a tool designed to
 
 The following is a diagram of how such a thing could be achieved.
 
-![Diagram Example](https://imgbox.com/kBFSudOh)
+![Diagram Example](https://images2.imgbox.com/48/36/kBFSudOh_o.png)
 
 The PEAS implementation is as follows.
 
